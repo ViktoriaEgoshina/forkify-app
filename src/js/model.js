@@ -138,3 +138,5 @@ export const uploadRecipe = async function (newRecipe) {
 };
 
 init();
+
+console.log(`hello`);
